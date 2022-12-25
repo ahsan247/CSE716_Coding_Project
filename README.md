@@ -1,7 +1,7 @@
 # CSE716 Coding Project
 
 Group Members:
-*Md. Shifatul Ahsan Apurba, *
+*Md. Shifatul Ahsan Apurba*,
 *Asika Islam*
 
 Project Summary: 
